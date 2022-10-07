@@ -13,3 +13,5 @@ Implementation of Circular Queue
 
 Implementation of Priority Queue (ascending)
 
+Implementation of Priority Queue (descending)
+
