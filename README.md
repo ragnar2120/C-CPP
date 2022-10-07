@@ -18,6 +18,6 @@ Implementation of Priority Queue (descending)
 Implementation of Double Ended Queue 
 
 
-#Contributors
+# Contributors
 [Ragnar L](https://github.com/ragnar2120)
 [Swaroop Rangle](https://github.com/swaroop002)
