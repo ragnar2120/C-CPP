@@ -17,6 +17,9 @@ Implementation of Priority Queue (descending)
 
 Implementation of Double Ended Queue 
 
+Implementation of Sparse and Transpose of a Matrix
+
+Added comments
 
 # Contributors
 [Ragnar L](https://github.com/ragnar2120)
