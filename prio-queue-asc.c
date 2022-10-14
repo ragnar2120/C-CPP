@@ -1,4 +1,4 @@
-// Implementation of Proirity Queue for ascending priority
+// Implementation of Proirity Queue for ascending priority (0- highest)
 #include <stdio.h>
 #include <stdlib.h>
 #define size 10
