@@ -1,4 +1,4 @@
-//queue
+//implementation of queue
 
 #include <stdio.h>
 #include <stdlib.h>
